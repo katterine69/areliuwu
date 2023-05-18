@@ -10,8 +10,8 @@ namespace areliuwu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bye uwu, World!");
-            Console.WriteLine("Habla causa GAAAAAA");
+            Console.WriteLine("bye uwu World!");
+            Console.WriteLine("eres un chico facil");
             Console.WriteLine("Hello, areli");
             //dafsdfs
         }
